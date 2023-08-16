@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	margin-top: 2rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+/* ul {
+	list-style: none;
+} */
+
+li {
+	font-size: 1.2rem;
+}
+
+button {
+	background-color: green;
+	padding: 10px 30px;
+	font-size: 1.2rem;
+	border: green;
+	color: #fff;
+	border-radius: 5px;
+	margin-bottom: 2rem;
+}
+
+button:hover {
+	background-color: #024602;
+}
