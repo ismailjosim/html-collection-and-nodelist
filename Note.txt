@@ -63,3 +63,5 @@ Summarize the key points covered in the video.
 Emphasize the importance of understanding HTML Collections and NodeLists for effective web development.
 
 comments & empty space is also node.
+
+A NodeList is a collection of document nodes (element nodes, attribute nodes, and text nodes). HTMLCollection items can be accessed by their name, id, or index number. NodeList items can only be accessed by their index number

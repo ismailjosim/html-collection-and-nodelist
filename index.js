@@ -21,9 +21,6 @@
 // listEl[2].style.backgroundColor = 'black'
 // listEl[2].style.color = 'white'
 
-
-
-
 // Get HTML collection
 // const listEl = document.getElementsByTagName('li');
 // console.log(listEl)
